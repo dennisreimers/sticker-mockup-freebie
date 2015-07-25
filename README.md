@@ -42,6 +42,9 @@ To use this mockup you must have Adobe Photoshop installed.
 Licensed under the [MIT license](http://opensource.org/licenses/MIT).
 
 # Credits
+Example sticker is a reference to Alchemy CMS — A powerful, flexible and user centric Rails CMS. 
+https://github.com/AlchemyCMS/alchemy_cms
+
 Background Texture by Graphic Burger (http://graphicburger.com/6-vintage-wood-textures/)
 
 Please read "Graphicburger-License.txt" if you include the standard background image.
